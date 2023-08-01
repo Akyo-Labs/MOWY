@@ -1,4 +1,4 @@
-**Plooty - Redefining Creative and Event Industries**
+****Plooty - Redefining Creative and Event Industries****
 
 **Abstract**
 
