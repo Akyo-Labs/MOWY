@@ -2,7 +2,7 @@
 
 **Abstract**
 
-Plooty is a revolutionary platform destined to transform Africa's creative and event industries by leveraging the power of blockchain technology and social networking. 
+Plooty is a revolutionary platform destined to transform creativity and event industries by leveraging the power of blockchain technology and social networking. 
 By creating a space for artists, musicians, and event organizers to mint, sell, and manage NFTs tied to their creative works or event tickets, Plooty empowers creators to monetize their talents 
 and offerings in a secure, transparent, and fair manner.
 
