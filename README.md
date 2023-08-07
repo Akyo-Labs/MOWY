@@ -12,7 +12,7 @@ Plooty, thus, emerges as a comprehensive solution for an industry ripe for disru
 
 **Introduction**
 
-In a world undergoing rapid digital transformation, Plooty steps in as a cutting-edge platform destined to reshape the creative and event industries across Africa. 
+In a world undergoing rapid digital transformation, Plooty steps in as a cutting-edge platform destined to reshape the creative and event industries across the world. 
 By introducing an exciting convergence of NFT technology, ticketing solutions, and a vibrant social network, Plooty strives to revolutionize the way artists, musicians, event organizers,
 and enthusiasts interact, collaborate, and thrive.
 
@@ -47,6 +47,6 @@ At Plooty, we understand the value of privacy and security. Utilizing blockchain
 
 **Conclusion**
 
-In essence, Plooty is more than just a platform; it's a revolution aiming to decentralize the creative and event industries in Africa. 
+In essence, Plooty is more than just a platform; it's a revolution aiming to decentralize the creative and event industries. 
 By giving power back to the creators, we strive to ensure that the digital age truly serves those who enrich our culture and color our world. 
-Join us as we embark on this exciting journey to reshape the digital landscape of Africa's creative sector.
+Join us as we embark on this exciting journey to reshape the digital landscape of creative sector.
