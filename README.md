@@ -26,13 +26,13 @@ YouMint envisions a landscape where artists, musicians, and event organizers can
 
 5. **In-built Wallet:** A user-friendly digital wallet is integrated into the platform, enabling easy management and transaction of NFTs.
 
-**KYC Verification**
-
-YouMint prioritizes the security and trustworthiness of its ecosystem. We implement a robust Know Your Customer (KYC) verification process for all users, ensuring their identities are verified securely. This KYC process enhances user trust and helps maintain the integrity of the platform.
-
 **Monetization**
 
 YouMint’s monetization model is built upon fair trade and mutual growth. While the platform may earn revenue from transaction fees and premium features, the major portion of income goes directly to the creators or event organizers, thus ensuring a sustainable and fair ecosystem.
+
+**KYC Verification**
+
+YouMint prioritizes the security and trustworthiness of its ecosystem. We implement a robust Know Your Customer (KYC) verification process for all users, ensuring their identities are verified securely. This KYC process enhances user trust and helps maintain the integrity of the platform.
 
 **Privacy and Security**
 
