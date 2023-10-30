@@ -14,7 +14,6 @@ Core Features
 2.	Event Ticketing: Event organizers can leverage our transparent and secure ticketing solution, eliminating counterfeiting and scalping. Each ticket, minted as an NFT, ensures authenticity and exclusivity, providing a seamless experience for both organizers and attendees. Event details, including date, time, venue, and seating maps, are integrated for easy access.
 3.	Social Networking: MOWY integrates a social networking module where creators, organizers, and fans can connect, communicate, and foster stronger bonds. This feature amplifies fan engagement, making artist-supporter interaction more personal and rewarding.
 4.	Certification of Artwork: With our stringent verification system, MOWY guarantees the authenticity of each artwork or music track, providing a trustworthy marketplace for both creators and buyers.
-5.	In-built Wallet: A user-friendly digital wallet is integrated into the platform, enabling easy management and transaction of NFTs.
 
 Monetization
 MOWY’s monetization model is built upon fair trade and mutual growth. While the platform may earn revenue from transaction fees and premium features, the major portion of income goes directly to the creators or event organizers, thus ensuring a sustainable and fair ecosystem.
